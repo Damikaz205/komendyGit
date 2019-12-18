@@ -5,3 +5,5 @@ Naprawa b³êdów - hotFix-001
 Dodano Asystetna Pomocy
 Uproszczenie interfejsu graficznego
 >>>>>>> easierApp
+
+Zmiana08

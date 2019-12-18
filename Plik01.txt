@@ -3,10 +3,12 @@ Zmiana 02 Zmiana 02a
 Zmiana 03
 Zmiana 04
 Zmiana 05
-Zmiana 08
+Zmiana 07
 <<<<<<< HEAD
 Naprawa b³êdów - hotFix-001
 =======
 Dodano Asystetna Pomocy
 Uproszczenie interfejsu graficznego
 >>>>>>> easierApp
+
+Zmiana 08
