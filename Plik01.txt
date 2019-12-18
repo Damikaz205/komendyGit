@@ -4,3 +4,4 @@ Zmiana 03
 Zmiana 04
 Zmiana 05
 Zmiana 08
+Naprawa b³êdów - hotFix-001
