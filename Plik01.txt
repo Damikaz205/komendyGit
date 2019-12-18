@@ -14,3 +14,4 @@ Uproszczenie interfejsu graficznego
 Zmiana 08
 Zmiana 09
 Zmiana 10
+Zmiana11
