@@ -5,3 +5,5 @@ oraz
 Dodano Asystetna Pomocy
 Uproszczenie interfejsu graficznego
 easierApp
+
+Zmiana10
