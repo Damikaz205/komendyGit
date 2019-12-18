@@ -5,3 +5,4 @@ Zmiana 04
 Zmiana 05
 Zmiana 08
 Dodano Asystetna Pomocy
+Uproszczenie interfejsu graficznego
